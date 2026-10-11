@@ -23,10 +23,10 @@ Kotlin · Android Studio · Android
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,c,cpp" />
 </p>
 
-Java · Python
+Kotlin · Java · Python · C · C++
 
 **Databases**
 
