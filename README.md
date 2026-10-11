@@ -17,10 +17,6 @@
 ## 👨‍💻 About Me
 
 - 📱 Developing Android applications
-- 🌱 Learning Kotlin and Android Studio
-- ☕ Working with Java
-- 🐍 Practicing Python
-- ⚙️ Learning C and C++
 - 💼 Looking for opportunities as a Junior Android Developer
 - 🚀 Building my first portfolio projects
 
